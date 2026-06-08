@@ -1,3 +1,1 @@
-## تحميل قالب المتجر الأسود الفاخر
-
-[تحميل القالب](./fancy_black_store_ready.zip)
+https://github.com/nitrostory/-Nitro-BlacK.git
