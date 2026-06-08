@@ -1,7 +1,3 @@
-# Nitro Hlaa Pro Store Theme
+## تحميل قالب المتجر الأسود الفاخر
 
-استمتع بموضوع المتجر الفخم باللون الأسود وبجميع تصاميم البطاقات والبنرات.
-
-![معاينة التصميم](path_to_your_banner_image.png)
-
-[تحميل القالب الكامل](path_to_your_zip_file.zip)
+[تحميل القالب](./fancy_black_store_ready.zip)
